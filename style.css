@@ -115,4 +115,31 @@ footer {
     border-radius: 12px;
     margin: 20px 0px 20px 0px;
 
+
+}
+#gameScore
+{
+	font-family: Raleway;
+	color: white;
+	letter-spacing: 1PX;
+	font-weight: 400;
+	font-size: 24PX;
+	margin: 0;
+	background-color: black;
+	width: 70px;
+	height: 25px;
+	text-align: center;
+	display: inline-block;
+	vertical-align: middle;
+	border-radius: 11px;
+}
+#scoreLabel
+{
+	text-align: center;
+	display: inline-block;
+	font-size: 20PX;
+	font-family: Raleway;
+	font-weight: 500;
+	vertical-align: middle;
+	
 }
